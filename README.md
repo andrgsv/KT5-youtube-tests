@@ -128,3 +128,4 @@ pytest --html=artifacts/report.html --self-contained-html
 - `jira_cards.md` — примеры карточек дефектов для Jira / YouGile;
 - `traceability_matrix.md` — матрица соответствия требований и тестов.
 - 
+
